@@ -24,6 +24,9 @@
 - [Furnace Repair Englewood for a More Comfortable Home](https://local-business-guides.github.io/miller-family-plumbing-and-hvac-englewood/furnace-repair-englewood/): Furnace Repair Englewood helps you address heating trouble and plan a repair. Call Miller Family Plumbing & HVAC in Englewood to schedule a visit.
 - [Top Plumber Co in Englewood for Home Plumbing Needs](https://local-business-guides.github.io/miller-family-plumbing-and-hvac-englewood/top-plumber-co-in-englewood/): For plumbing repairs and installations, turn to Top Plumber Co in Englewood. Call Miller Family Plumbing & HVAC to discuss your service needs.
 
+## Newsroom
+- [Miller Family Plumbing & HVAC Publishes Guide to Plumber in Englewood CO](https://local-business-guides.github.io/miller-family-plumbing-and-hvac-englewood/news/2026-11-16-miller-family-plumbing-hvac-publishes-guide-to/): Miller Family Plumbing & HVAC published a guide to local plumbing needs, with a YouTube video, podcast episode and SoundCloud audio version. (2026-11-16)
+
 ## Pages
 - [Plumber in Englewood, Colorado](https://local-business-guides.github.io/miller-family-plumbing-and-hvac-englewood/): Get plumbing and heating and cooling help for your Englewood home or business from a local team. Call +1720-861-4090.
 - [About Miller Family Plumbing & HVAC](https://local-business-guides.github.io/miller-family-plumbing-and-hvac-englewood/about/): About Miller Family Plumbing & HVAC, Englewood.
@@ -31,4 +34,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/miller-family-plumbing-and-hvac-englewood/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/miller-family-plumbing-and-hvac-englewood/news/rss.xml)
 - [Main resource site](https://miller-family-plumbing-englewood.localwebsites.chatgpt.site)
